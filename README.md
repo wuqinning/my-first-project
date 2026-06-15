@@ -1,5 +1,3 @@
-# my-first-project
-open a new world
 # My First GitHub Project
 
 👋 Hi, I'm a beginner in GitHub and programming.
