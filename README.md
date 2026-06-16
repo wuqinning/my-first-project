@@ -17,3 +17,4 @@ Statistics student interested in Data Science and AI.
 
 ## 📫 Status
 This is my first GitHub repository.
+My first edit
